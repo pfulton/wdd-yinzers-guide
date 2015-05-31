@@ -1,5 +1,5 @@
 # A Yinzer's Guide to Web Design Day & Pittsburgh
-A guide to Pittsburgh, by the yinzers, for the non-yinzers.
+A [guide](http://pfulton.github.io/wdd-yinzers-guide/) to Pittsburgh, by the yinzers, for the non-yinzers.
 
 ## Contributing
 1. Fork the repo
