@@ -37,6 +37,7 @@ The Strip would be an excellent place to walk around on the day after Web Design
 * Pittsburgh Children's Museum: [site](https://pittsburghkids.org/) | 10 am - 5 pm, daily | $14 (adults) / $13 (kids, ages 2-18) / FREE (kids, under age 2) | [directions](https://goo.gl/maps/5NPtf)
 * PNC Park: Pirates vs. Phillies - Friday @ 7:05 pm, Saturday @ 4:05 pm, Sunday @ 1:35 pm | [tickets](http://pittsburgh.pirates.mlb.com/ticketing/index.jsp?c_id=pit) | [directions](https://goo.gl/maps/bKbAL)
 * Heinz Field: [directions](https://goo.gl/maps/cyd1J)
+* Randyland: [site](http://randy.land/) | 1 pm - 7 pm, daily | admission is free!
 
 ### South Side
 ##### Food:
