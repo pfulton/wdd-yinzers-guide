@@ -9,6 +9,8 @@ There's a ton of things going on during the weekend of Web Design Day. Two of th
 
 If you're staying near downtown or the North Side/North Shore area, many of the things here will be within walking distance! If not, Pittsburgh's [bike share program](https://healthyridepgh.com) has just launched and you can take advantage of it to get around town!
 
+If you've never been to Pittsburgh before, make it a priority to get to Mount Washington to see the city from Grandview Avenue. We have info on that below.
+
 ### Strip District
 The Strip would be an excellent place to walk around on the day after Web Design Day. [Farmers @ Firehouse](http://farmersatfirehouse.com/) - a farmer's market - is open from 9 - 1, and Saturdays are a great day to really experience the sights, sounds, and smells of Pittsburgh.
 
