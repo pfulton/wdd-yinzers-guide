@@ -20,7 +20,7 @@ The Strip would be an excellent place to walk around on the day after Web Design
 * Pamela's: [site](http://www.pamelasdiner.com/) | [yelp](http://www.yelp.com/biz/pamelas-p-and-g-diner-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/271273/restaurant/Strip-District/Pamelas-P-G-Diner-Pittsburgh) | [directions](https://goo.gl/maps/iY445)
 * Thin Man Sandwich Shop: [site](http://thinmansandwichshop.com/) | [yelp](http://www.yelp.com/biz/thin-man-sandwich-shop-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1715847/restaurant/Strip-District/Thin-Man-Sandwich-Shop-Pittsburgh) | [directions](https://goo.gl/maps/euDPB)
 * Primanti Brothers: [site](https://www.primantibros.com/) | [yelp](http://www.yelp.com/biz/primanti-brothers-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/271431/restaurant/Strip-District/Primanti-Brothers-Pittsburgh) | [directions](https://goo.gl/maps/KbHFL)
-* Enrico Biscotti: [site](http://www.enricobiscotti.com/) | yelp | urbanspoon | directions
+* Enrico Biscotti: [site](http://www.enricobiscotti.com/) | [yelp](http://www.yelp.com/biz/the-enrico-biscotti-co-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/270566/restaurant/Strip-District/Enrico-Biscotti-Pittsburgh) | [directions](https://goo.gl/maps/vcHjk)
 
 ##### Non-food:
 * Yinzers: [yelp](http://www.yelp.com/biz/yinzers-pittsburgh) | [directions](https://goo.gl/maps/EDwRI) | - Sports wear & Pittsburgh-themed memorabilia
