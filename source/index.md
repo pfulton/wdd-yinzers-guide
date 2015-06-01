@@ -17,14 +17,19 @@ The Strip would be an excellent place to walk around on the day after Web Design
 #### Strip District Things:
 ##### Food:
 * Gaucho: [site](http://eatgaucho.com/) | [yelp](http://www.yelp.com/biz/gaucho-parrilla-argentina-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1729706/restaurant/Strip-District/Gaucho-Parrilla-Argentina-Pittsburgh) | [directions](https://goo.gl/maps/hE6XU)
-* Pamela's: [site](http://www.pamelasdiner.com/) | [yelp](http://www.yelp.com/biz/pamelas-p-and-g-diner-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/271273/restaurant/Strip-District/Pamelas-P-G-Diner-Pittsburgh) | [directions](https://goo.gl/maps/iY445)
+* Pamela's (note: cash only, but there's an ATM): [site](http://www.pamelasdiner.com/) | [yelp](http://www.yelp.com/biz/pamelas-p-and-g-diner-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/271273/restaurant/Strip-District/Pamelas-P-G-Diner-Pittsburgh) | [directions](https://goo.gl/maps/iY445)
 * Thin Man Sandwich Shop: [site](http://thinmansandwichshop.com/) | [yelp](http://www.yelp.com/biz/thin-man-sandwich-shop-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1715847/restaurant/Strip-District/Thin-Man-Sandwich-Shop-Pittsburgh) | [directions](https://goo.gl/maps/euDPB)
 * Primanti Brothers: [site](https://www.primantibros.com/) | [yelp](http://www.yelp.com/biz/primanti-brothers-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/271431/restaurant/Strip-District/Primanti-Brothers-Pittsburgh) | [directions](https://goo.gl/maps/KbHFL)
 * Enrico Biscotti: [site](http://www.enricobiscotti.com/) | [yelp](http://www.yelp.com/biz/the-enrico-biscotti-co-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/270566/restaurant/Strip-District/Enrico-Biscotti-Pittsburgh) | [directions](https://goo.gl/maps/vcHjk)
+* Salem's Grill and Market (note: closed from 1-2 on Friday for prayers): 
+ [yelp](http://www.yelp.com/biz/salems-market-and-grill-pittsburgh) |
+ [urbanspoon](http://www.urbanspoon.com/r/23/1502578/restaurant/Strip-District/Salems-Market-Grill-Pittsburgh) |
+ [directions](https://goo.gl/maps/XagDH)
 
 ##### Non-food:
 * Yinzers: [yelp](http://www.yelp.com/biz/yinzers-pittsburgh) | [directions](https://goo.gl/maps/EDwRI) | - Sports wear & Pittsburgh-themed memorabilia
 * Senator John Heinz History Center (museum): [site](http://www.heinzhistorycenter.org/) | [directions](https://goo.gl/maps/nGEJJ) | 10 am - 5 pm daily | $15 (adults) / $6 (kids, ages 6-17) / FREE (kids, ages 5 & under)
+* Pittsburgh Public Market: [site](http://pittsburghpublicmarket.org/) | Sat. 9-5, Sun 10-4 FREE
 
 ### North Side/North Shore
 ##### Food:
@@ -38,6 +43,7 @@ The Strip would be an excellent place to walk around on the day after Web Design
 * PNC Park: Pirates vs. Phillies - Friday @ 7:05 pm, Saturday @ 4:05 pm, Sunday @ 1:35 pm | [tickets](http://pittsburgh.pirates.mlb.com/ticketing/index.jsp?c_id=pit) | [directions](https://goo.gl/maps/bKbAL)
 * Heinz Field: [directions](https://goo.gl/maps/cyd1J)
 * Randyland: [site](http://randy.land/) | 1 pm - 7 pm, daily | admission is free!
+* St. Anthony's Chapel (A unique and somewhat weird collection of relics off the beaten path): Open 1-4pm Saturday, with tours at 1, 2, and 3 | [site](http://saintanthonyschapel.org/) | [directions](https://goo.gl/maps/8zWQG)
 
 ### South Side
 ##### Food:
@@ -47,3 +53,7 @@ The Strip would be an excellent place to walk around on the day after Web Design
 
 ### Mount Washington
 Really, the best thing about Mount Washington is the amazing view of the city. Ride one of the two inclines to get to Grandview Avenue! | [Duquesne Incline - Lower Station](https://goo.gl/maps/20JP7) | [Mon Incline - Lower Station](https://goo.gl/maps/NfqRJ)
+
+### Lawrenceville
+#####Food
+* Frankie's (cheap hot dogs, been around since the dawn of time. Follow the onions) | [urbanspoon](http://www.urbanspoon.com/r/23/270638/restaurant/Lawrenceville/Frankies-Extra-Long-Pittsburgh) | [yelp](http://www.yelp.com/biz/frankies-extra-long-pittsburgh) | [directions](https://goo.gl/maps/iYhMd)
