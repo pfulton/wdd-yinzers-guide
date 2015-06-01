@@ -21,7 +21,7 @@ The Strip would be an excellent place to walk around on the day after Web Design
 * Thin Man Sandwich Shop: [site](http://thinmansandwichshop.com/) | [yelp](http://www.yelp.com/biz/thin-man-sandwich-shop-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1715847/restaurant/Strip-District/Thin-Man-Sandwich-Shop-Pittsburgh) | [directions](https://goo.gl/maps/euDPB)
 * Primanti Brothers: [site](https://www.primantibros.com/) | [yelp](http://www.yelp.com/biz/primanti-brothers-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/271431/restaurant/Strip-District/Primanti-Brothers-Pittsburgh) | [directions](https://goo.gl/maps/KbHFL)
 * Enrico Biscotti: [site](http://www.enricobiscotti.com/) | [yelp](http://www.yelp.com/biz/the-enrico-biscotti-co-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/270566/restaurant/Strip-District/Enrico-Biscotti-Pittsburgh) | [directions](https://goo.gl/maps/vcHjk)
-* Salem's Grill and Market (note: closed from 1-2 on Friday for prayers): 
+* Salem's Grill and Market (note: closed from 1-2 on Friday for prayers):
  [yelp](http://www.yelp.com/biz/salems-market-and-grill-pittsburgh) |
  [urbanspoon](http://www.urbanspoon.com/r/23/1502578/restaurant/Strip-District/Salems-Market-Grill-Pittsburgh) |
  [directions](https://goo.gl/maps/XagDH)
@@ -56,4 +56,4 @@ Really, the best thing about Mount Washington is the amazing view of the city. R
 
 ### Lawrenceville
 #####Food
-* Frankie's (cheap hot dogs, been around since the dawn of time. Follow the onions) | [urbanspoon](http://www.urbanspoon.com/r/23/270638/restaurant/Lawrenceville/Frankies-Extra-Long-Pittsburgh) | [yelp](http://www.yelp.com/biz/frankies-extra-long-pittsburgh) | [directions](https://goo.gl/maps/iYhMd)
+* Frankie's (cheap hot dogs, been around since the dawn of time. Follow the onions) | [yelp](http://www.yelp.com/biz/frankies-extra-long-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/270638/restaurant/Lawrenceville/Frankies-Extra-Long-Pittsburgh) | [directions](https://goo.gl/maps/iYhMd)
