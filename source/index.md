@@ -21,6 +21,7 @@ The Strip would be an excellent place to walk around on the day after Web Design
 * Thin Man Sandwich Shop: [site](http://thinmansandwichshop.com/) | [yelp](http://www.yelp.com/biz/thin-man-sandwich-shop-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1715847/restaurant/Strip-District/Thin-Man-Sandwich-Shop-Pittsburgh) | [directions](https://goo.gl/maps/euDPB)
 * Primanti Brothers: [site](https://www.primantibros.com/) | [yelp](http://www.yelp.com/biz/primanti-brothers-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/271431/restaurant/Strip-District/Primanti-Brothers-Pittsburgh) | [directions](https://goo.gl/maps/KbHFL)
 * Enrico Biscotti: [site](http://www.enricobiscotti.com/) | [yelp](http://www.yelp.com/biz/the-enrico-biscotti-co-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/270566/restaurant/Strip-District/Enrico-Biscotti-Pittsburgh) | [directions](https://goo.gl/maps/vcHjk)
+* 21st Street (specialty coffee): [site](http://21streetcoffee.com/) | [yelp](http://www.yelp.com/biz/21st-street-coffee-and-tea-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/334397/restaurant/Strip-District/21st-Street-Coffee-and-Tea-Pittsburgh)
 * Salem's Grill and Market (note: closed from 1-2 on Friday for prayers):
  [yelp](http://www.yelp.com/biz/salems-market-and-grill-pittsburgh) |
  [urbanspoon](http://www.urbanspoon.com/r/23/1502578/restaurant/Strip-District/Salems-Market-Grill-Pittsburgh) |
@@ -47,15 +48,21 @@ The Strip would be an excellent place to walk around on the day after Web Design
 
 ### South Side
 ##### Food:
-
-##### Non-food:
-
+* Amazing Cafe (vegetarian / vegan, juice, smoothies): [site](http://www.amazingyoga.net/cafe/) | [yelp](http://www.yelp.com/biz/amazing-cafe-pittsburgh)
+* The Smiling Moose (rock and roll bar with a surprisingly good menu): [site](http://www.smiling-moose.com/) | [yelp](http://www.yelp.com/biz/the-smiling-moose-pittsburgh)
+* The Pub Chip Shop (heavy Scottish fare): [site](http://thepubchipshop.com/) | [yelp](http://www.yelp.com/biz/the-pub-chip-shop-pittsburgh)
+* Winghart's (burgers & whiskey): [site](http://www.winghartburgers.com/) | [yelp](http://www.yelp.com/biz/wingharts-burger-and-whiskey-bar-pittsburgh-2)
+* The Beehive (neighborhood institution): [site](http://www.beehivebuzz.com/)
 
 ### Mount Washington
 Really, the best thing about Mount Washington is the amazing view of the city. Ride one of the two inclines to get to Grandview Avenue! | [Duquesne Incline - Lower Station](https://goo.gl/maps/20JP7) | [Mon Incline - Lower Station](https://goo.gl/maps/NfqRJ)
 
 ### Lawrenceville
-#####Food
+##### Food:
 * Frankie's (cheap hot dogs, been around since the dawn of time. Follow the onions) | [yelp](http://www.yelp.com/biz/frankies-extra-long-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/270638/restaurant/Lawrenceville/Frankies-Extra-Long-Pittsburgh) | [directions](https://goo.gl/maps/iYhMd)
-
 * Smoke BBQ Taqueria (Barbecue tacos. What's not to like? BYOB. Cash only, but there's an ATM onsite.) | [yelp](http://www.yelp.com/biz/smoke-bbq-taqueria-pittsburgh) | [urbanspoon](https://www.zomato.com/pittsburgh/smoke-bbq-taqueria-pittsburgh) | [directions](https://goo.gl/maps/C8Uk6)
+* Constellation Coffee (specialty coffee): [site](http://www.constellationcoffeepgh.com/) | [yelp](http://www.yelp.com/biz/constellation-coffee-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1947665/restaurant/Bloomfield/Constellation-Coffee-Pittsburgh)
+* Round Corner Cantina (Mexican cocktails and bar food): [site](http://roundcornercantina.com/) | [yelp](http://www.yelp.com/biz/round-corner-cantina-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1484044/restaurant/Lawrenceville/Round-Corner-Cantina-Pittsburgh)
+* Tender (artisan cocktails): [site](http://tenderpgh.com/) | [yelp](http://www.yelp.com/biz/tender-bar-and-kitchen-pittsburgh-2) | [urbanspoon](http://www.urbanspoon.com/r/23/1739461/restaurant/Lawrenceville/Tender-Bar-Kitchen-Pittsburgh)
+* Cure (artisan meat): [site](http://www.curepittsburgh.com/#welcome-to-cure) | [yelp](http://www.yelp.com/biz/cure-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1616797/restaurant/Lawrenceville/Cure-Pittsburgh)
+* Pusadee's Garden (Thai): [site](http://www.pusadeesgarden.com/) | [yelp](http://www.yelp.com/biz/pusadees-garden-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1453809/restaurant/Lawrenceville/Pusadees-Garden-Pittsburgh)
