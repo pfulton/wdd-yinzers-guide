@@ -57,3 +57,5 @@ Really, the best thing about Mount Washington is the amazing view of the city. R
 ### Lawrenceville
 #####Food
 * Frankie's (cheap hot dogs, been around since the dawn of time. Follow the onions) | [yelp](http://www.yelp.com/biz/frankies-extra-long-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/270638/restaurant/Lawrenceville/Frankies-Extra-Long-Pittsburgh) | [directions](https://goo.gl/maps/iYhMd)
+
+* Smoke BBQ Taqueria (Barbecue tacos. What's not to like? BYOB. Cash only, but there's an ATM onsite.) | [yelp](http://www.yelp.com/biz/smoke-bbq-taqueria-pittsburgh) | [urbanspoon](https://www.zomato.com/pittsburgh/smoke-bbq-taqueria-pittsburgh) | [directions](https://goo.gl/maps/C8Uk6)
