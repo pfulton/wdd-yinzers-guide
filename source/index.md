@@ -73,3 +73,13 @@ Really, the best thing about Mount Washington is the amazing view of the city. R
 * Tender (artisan cocktails): [site](http://tenderpgh.com/) | [yelp](http://www.yelp.com/biz/tender-bar-and-kitchen-pittsburgh-2) | [urbanspoon](http://www.urbanspoon.com/r/23/1739461/restaurant/Lawrenceville/Tender-Bar-Kitchen-Pittsburgh)
 * Cure (artisan meat): [site](http://www.curepittsburgh.com/#welcome-to-cure) | [yelp](http://www.yelp.com/biz/cure-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1616797/restaurant/Lawrenceville/Cure-Pittsburgh)
 * Pusadee's Garden (Thai): [site](http://www.pusadeesgarden.com/) | [yelp](http://www.yelp.com/biz/pusadees-garden-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1453809/restaurant/Lawrenceville/Pusadees-Garden-Pittsburgh)
+* Espresso a Mano (coffee): [site](http://espressoamano.com/) |
+[yelp](http://www.yelp.com/biz/espresso-a-mano-pittsburgh) |
+[urbanspoon](https://www.zomato.com/pittsburgh/espresso-a-mano-pittsburgh) |
+[directions](https://goo.gl/maps/xpDCk)
+
+### Oakland
+Oakland is really a student haven, and where you can find the University of Pittsburgh and Carnegie Mellon University. The main attractions here are some awesome museums, and great parks. Parking can be a challenge, so pay close attention to where you're parking and how much it will cost. 
+
+#### Non-Food
+* Carnegie Museums of Art and Natural History (two museums in one building-admission gets you entry to both, and you can leave and re-enter all day if you retain your ticket): [site](www.cmoa.org) [site](www.http://www.carnegiemnh.org/) | Fri. 10am-5pm, Sat.  10-5, Sun. 12-5 | Admission: Adults $19.95, Seniors $14.95, Students and Children 3-18 $11.95, Children under 3 FREE, Admission is discounted 50% after 3PM on Weekdays. Holders of ACCESS cards receive admission for $1 per person, up to four people. Other discounts [here](http://www.cmoa.org/discounts/).
