@@ -5,15 +5,11 @@ title: Home
 Usually, city guides are pretty terrible. Let's make this an awesome resource for those who are in town for this year's Web Design Day!
 
 ### General Stuff
-There's a ton of things going on during the weekend of Web Design Day. Two of the big things are: [Pittsburgh Pride](http://www.pittsburghpride.org/) & [The 3 Rivers Arts Festival](http://www.3riversartsfest.org/) (which features Neko Case on Saturday, June 13 FOR FREE).
-
-On the night of Thursday June 11th, there is a Pittsburgh Dribbble Meetup at the Duolingo Offices.  [Full event and RSVP info can be found here](https://nvite.com/PGHDribbble/ae29).
-
-If you're staying near downtown or the North Side/North Shore area, many of the things here will be within walking distance! If not, Pittsburgh's [bike share program](https://healthyridepgh.com) has just launched and you can take advantage of it to get around town!
-
-If you've never been to Pittsburgh before, make it a priority to get to Mount Washington to see the city from Grandview Avenue. We have info on that below.
-
-If you're wondering what Pittsburgh is all about, a great introduction to the city are the [Rick Seback](http://twitter.com/rickaroundhere) "It's Pittsburgh, and a Lot of Other Stuff" videos, which you can stream [here](http://www.wqed.org/tv/watch/?series=3) via our local PBS affiliate, WQED. This guy is an institution. Or, you could just ask any Pittsburgh. Pittsburghers love to talk about Pittsburgh- it's part of living here.
+* There's a ton of things going on during the weekend of Web Design Day. Two of the big things are: [Pittsburgh Pride](http://www.pittsburghpride.org/) & [The 3 Rivers Arts Festival](http://www.3riversartsfest.org/) (which features Neko Case on Saturday, June 13 FOR FREE).
+* On the night of Thursday June 11th, there is a Pittsburgh Dribbble Meetup at the Duolingo Offices.  [Full event and RSVP info can be found here](https://nvite.com/PGHDribbble/ae29).
+* If you're staying near downtown or the North Side/North Shore area, many of the things here will be within walking distance! If not, Pittsburgh's [bike share program](https://healthyridepgh.com) has just launched and you can take advantage of it to get around town!
+* If you've never been to Pittsburgh before, make it a priority to get to Mount Washington to see the city from Grandview Avenue. We have info on that below.
+* If you're wondering what Pittsburgh is all about, a great introduction to the city are the [Rick Seback](http://twitter.com/rickaroundhere) "It's Pittsburgh, and a Lot of Other Stuff" videos, which you can stream [here](http://www.wqed.org/tv/watch/?series=3) via our local PBS affiliate, WQED. This guy is an institution. Or, you could just ask any Pittsburgh. Pittsburghers love to talk about Pittsburgh- it's part of living here.
 
 ### Strip District
 The Strip would be an excellent place to walk around on the day after Web Design Day. [Farmers @ Firehouse](http://farmersatfirehouse.com/) - a farmer's market - is open from 9 - 1, and Saturdays are a great day to really experience the sights, sounds, and smells of Pittsburgh.
