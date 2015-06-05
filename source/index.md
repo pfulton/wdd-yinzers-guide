@@ -11,7 +11,7 @@ If you're staying near downtown or the North Side/North Shore area, many of the 
 
 If you've never been to Pittsburgh before, make it a priority to get to Mount Washington to see the city from Grandview Avenue. We have info on that below.
 
-If you're wondering what Pittsburgh is all about, a great introduction to the city are the [Rick Seback](www.twitter.com/rickaroundhere) "It's Pittsburgh, and a Lot of Other Stuff" videos, which you can stream [here](http://www.wqed.org/tv/watch/?series=3) via our local PBS affiliate, WQED. This guy is an institution. Or, you could just ask any Pittsburgh. Pittsburghers love to talk about Pittsburgh- it's part of living here. 
+If you're wondering what Pittsburgh is all about, a great introduction to the city are the [Rick Seback](http://twitter.com/rickaroundhere) "It's Pittsburgh, and a Lot of Other Stuff" videos, which you can stream [here](http://www.wqed.org/tv/watch/?series=3) via our local PBS affiliate, WQED. This guy is an institution. Or, you could just ask any Pittsburgh. Pittsburghers love to talk about Pittsburgh- it's part of living here.
 
 ### Strip District
 The Strip would be an excellent place to walk around on the day after Web Design Day. [Farmers @ Firehouse](http://farmersatfirehouse.com/) - a farmer's market - is open from 9 - 1, and Saturdays are a great day to really experience the sights, sounds, and smells of Pittsburgh.
