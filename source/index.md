@@ -36,7 +36,7 @@ The Strip would be an excellent place to walk around on the day after Web Design
 
 ### Downtown (Cultural District)
 ##### Food:
-* Nicky's Thai Kitchen: [site](http://www.nickysthaikitchen.com/) | [yelp](http://www.yelp.com/biz/nickys-thai-kitchen-pittsburgh) | [urbanspoon](https://www.zomato.com/pittsburgh/nickys-thai-kitchen-1-pittsburgh/maps) | [directions](https://goo.gl/maps/seogX)
+* Nicky's Thai Kitchen: [site](http://www.nickysthaikitchen.com/) | [yelp](http://www.yelp.com/biz/nickys-thai-kitchen-pittsburgh-4) | [urbanspoon](https://www.zomato.com/pittsburgh/nickys-thai-kitchen-1-pittsburgh/maps) | [directions](https://goo.gl/maps/seogX)
 * Sharp Edge: [site](http://sharpedgebeer.com/bistro-on-penn) | [yelp](http://www.yelp.com/biz/bistro-penn-pittsburgh-4) | [urbanspoon](https://www.zomato.com/pittsburgh/the-sharp-edge-bistro-penn-pittsburgh/maps) | [directions](https://goo.gl/maps/bAXLo)
 * Sienna Mercato: [site](http://www.siennapgh.com/mercato/) | [yelp](http://www.yelp.com/biz/sienna-mercato-pittsburgh) | [urbanspoon](https://www.zomato.com/pittsburgh/emporio-a-meatball-joint-pittsburgh) | [directions](https://goo.gl/maps/odkPP)
 * Ten Penny: [site](http://www.tenpennypgh.com/) | [yelp](http://www.yelp.com/biz/ten-penny-pittsburgh) | [urbanspoon](https://www.zomato.com/pittsburgh/ten-penny-pittsburgh/menu) | [directions](https://goo.gl/maps/JJRbw)
@@ -45,6 +45,8 @@ The Strip would be an excellent place to walk around on the day after Web Design
 ##### Food:
 * El Burro: [site](http://www.elburropgh.com/) | [yelp](http://www.yelp.com/biz/el-burro-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1712246/restaurant/North-Side/El-Burro-Comedor-Pittsburgh) | [directions](https://goo.gl/maps/Qz9Jx) | Vegetarian & Vegan friendly
 * North Side Farmer's Market: Friday, 3:30 - 7:30 pm | [directions](https://goo.gl/maps/796GF)
+* Nicky's Thai Kitchen (North Side): [site](http://www.nickysthaikitchen.com/) | [yelp](http://www.yelp.com/biz/nickys-thai-kitchen-pittsburgh) | [urbanspoon](https://www.zomato.com/pittsburgh/nickys-thai-kitchen-pittsburgh) | [directions](https://goo.gl/maps/HRgzB)
+* Carmi [site](http://www.carmirestaurant.com) | [yelp] (http://www.yelp.com/biz/carmi-family-restaurant-pittsburgh) | [directions](https://goo.gl/maps/GOSBh)
 
 ##### Non-food:
 * Andy Warhol Museum: [site](http://www.warhol.org/) | 10 am - 10 pm, Friday / 10 am - 5 pm, Sat. & Sun. | $20 (Adults) / $10 (students & kids ages 3 - 18) / HALF PRICE ADMISSION ON FRIDAYS FROM 5 - 10 PM | [directions](https://goo.gl/maps/bIal0)
