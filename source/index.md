@@ -33,7 +33,7 @@ The Strip would be an excellent place to walk around on the day after Web Design
 * Pittsburgh Public Market: [site](http://pittsburghpublicmarket.org/) | Sat. 9-5, Sun 10-4 FREE
 
 ### Downtown (Cultural District)
-##### Food: 
+##### Food:
 * Nicky's Thai Kitchen: [site](http://www.nickysthaikitchen.com/) | [yelp](http://www.yelp.com/biz/nickys-thai-kitchen-pittsburgh) | [urbanspoon](https://www.zomato.com/pittsburgh/nickys-thai-kitchen-1-pittsburgh/maps) | [directions](https://goo.gl/maps/seogX)
 * Sharp Edge: [site](http://sharpedgebeer.com/bistro-on-penn) | [yelp](http://www.yelp.com/biz/bistro-penn-pittsburgh-4) | [urbanspoon](https://www.zomato.com/pittsburgh/the-sharp-edge-bistro-penn-pittsburgh/maps) | [directions](https://goo.gl/maps/bAXLo)
 * Sienna Mercato: [site](http://www.siennapgh.com/mercato/) | [yelp](http://www.yelp.com/biz/sienna-mercato-pittsburgh) | [urbanspoon](https://www.zomato.com/pittsburgh/emporio-a-meatball-joint-pittsburgh) | [directions](https://goo.gl/maps/odkPP)
@@ -79,7 +79,7 @@ Really, the best thing about Mount Washington is the amazing view of the city. R
 [directions](https://goo.gl/maps/xpDCk)
 
 ### Oakland
-Oakland is really a student haven, and where you can find the University of Pittsburgh and Carnegie Mellon University. The main attractions here are some awesome museums, and great parks. Parking can be a challenge, so pay close attention to where you're parking and how much it will cost. 
+Oakland is really a student haven, and where you can find the University of Pittsburgh and Carnegie Mellon University. The main attractions here are some awesome museums, and great parks. Parking can be a challenge, so pay close attention to where you're parking and how much it will cost.
 
 #### Non-Food
-* Carnegie Museums of Art and Natural History (two museums in one building-admission gets you entry to both, and you can leave and re-enter all day if you retain your ticket): [site](www.cmoa.org) [site](www.http://www.carnegiemnh.org/) | Fri. 10am-5pm, Sat.  10-5, Sun. 12-5 | Admission: Adults $19.95, Seniors $14.95, Students and Children 3-18 $11.95, Children under 3 FREE, Admission is discounted 50% after 3PM on Weekdays. Holders of ACCESS cards receive admission for $1 per person, up to four people. Other discounts [here](http://www.cmoa.org/discounts/).
+* Carnegie Museums of Art and Natural History (two museums in one building-admission gets you entry to both, and you can leave and re-enter all day if you retain your ticket): [CMOA site](www.cmoa.org) // [CMNH site](www.http://www.carnegiemnh.org/) | Fri. 10am-5pm, Sat.  10-5, Sun. 12-5 | Admission: Adults $19.95, Seniors $14.95, Students and Children 3-18 $11.95, Children under 3 FREE, Admission is discounted 50% after 3PM on Weekdays. Holders of ACCESS cards receive admission for $1 per person, up to four people. Other discounts [here](http://www.cmoa.org/discounts/).
