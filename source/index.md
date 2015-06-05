@@ -18,15 +18,15 @@ The Strip would be an excellent place to walk around on the day after Web Design
 
 #### Strip District Things:
 ##### Food:
-* Gaucho: [site](http://eatgaucho.com/) | [yelp](http://www.yelp.com/biz/gaucho-parrilla-argentina-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1729706/restaurant/Strip-District/Gaucho-Parrilla-Argentina-Pittsburgh) | [directions](https://goo.gl/maps/hE6XU)
-* Pamela's (note: cash only, but there's an ATM): [site](http://www.pamelasdiner.com/) | [yelp](http://www.yelp.com/biz/pamelas-p-and-g-diner-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/271273/restaurant/Strip-District/Pamelas-P-G-Diner-Pittsburgh) | [directions](https://goo.gl/maps/iY445)
-* Thin Man Sandwich Shop: [site](http://thinmansandwichshop.com/) | [yelp](http://www.yelp.com/biz/thin-man-sandwich-shop-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1715847/restaurant/Strip-District/Thin-Man-Sandwich-Shop-Pittsburgh) | [directions](https://goo.gl/maps/euDPB)
-* Primanti Brothers: [site](https://www.primantibros.com/) | [yelp](http://www.yelp.com/biz/primanti-brothers-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/271431/restaurant/Strip-District/Primanti-Brothers-Pittsburgh) | [directions](https://goo.gl/maps/KbHFL)
-* Enrico Biscotti: [site](http://www.enricobiscotti.com/) | [yelp](http://www.yelp.com/biz/the-enrico-biscotti-co-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/270566/restaurant/Strip-District/Enrico-Biscotti-Pittsburgh) | [directions](https://goo.gl/maps/vcHjk)
-* 21st Street (specialty coffee): [site](http://21streetcoffee.com/) | [yelp](http://www.yelp.com/biz/21st-street-coffee-and-tea-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/334397/restaurant/Strip-District/21st-Street-Coffee-and-Tea-Pittsburgh)
+* Gaucho: [site](http://eatgaucho.com/) | [yelp](http://www.yelp.com/biz/gaucho-parrilla-argentina-pittsburgh) | [zomato](http://www.zomato.com/r/23/1729706/restaurant/Strip-District/Gaucho-Parrilla-Argentina-Pittsburgh) | [directions](https://goo.gl/maps/hE6XU)
+* Pamela's (note: cash only, but there's an ATM): [site](http://www.pamelasdiner.com/) | [yelp](http://www.yelp.com/biz/pamelas-p-and-g-diner-pittsburgh) | [zomato](http://www.zomato.com/r/23/271273/restaurant/Strip-District/Pamelas-P-G-Diner-Pittsburgh) | [directions](https://goo.gl/maps/iY445)
+* Thin Man Sandwich Shop: [site](http://thinmansandwichshop.com/) | [yelp](http://www.yelp.com/biz/thin-man-sandwich-shop-pittsburgh) | [zomato](http://www.zomato.com/r/23/1715847/restaurant/Strip-District/Thin-Man-Sandwich-Shop-Pittsburgh) | [directions](https://goo.gl/maps/euDPB)
+* Primanti Brothers: [site](https://www.primantibros.com/) | [yelp](http://www.yelp.com/biz/primanti-brothers-pittsburgh) | [zomato](http://www.zomato.com/r/23/271431/restaurant/Strip-District/Primanti-Brothers-Pittsburgh) | [directions](https://goo.gl/maps/KbHFL)
+* Enrico Biscotti: [site](http://www.enricobiscotti.com/) | [yelp](http://www.yelp.com/biz/the-enrico-biscotti-co-pittsburgh) | [zomato](http://www.zomato.com/r/23/270566/restaurant/Strip-District/Enrico-Biscotti-Pittsburgh) | [directions](https://goo.gl/maps/vcHjk)
+* 21st Street (specialty coffee): [site](http://21streetcoffee.com/) | [yelp](http://www.yelp.com/biz/21st-street-coffee-and-tea-pittsburgh) | [zomato](http://www.zomato.com/r/23/334397/restaurant/Strip-District/21st-Street-Coffee-and-Tea-Pittsburgh)
 * Salem's Grill and Market (note: closed from 1-2 on Friday for prayers):
  [yelp](http://www.yelp.com/biz/salems-market-and-grill-pittsburgh) |
- [urbanspoon](http://www.urbanspoon.com/r/23/1502578/restaurant/Strip-District/Salems-Market-Grill-Pittsburgh) |
+ [zomato](http://www.zomato.com/r/23/1502578/restaurant/Strip-District/Salems-Market-Grill-Pittsburgh) |
  [directions](https://goo.gl/maps/XagDH)
 
 ##### Non-food:
@@ -36,16 +36,16 @@ The Strip would be an excellent place to walk around on the day after Web Design
 
 ### Downtown (Cultural District)
 ##### Food:
-* Nicky's Thai Kitchen: [site](http://www.nickysthaikitchen.com/) | [yelp](http://www.yelp.com/biz/nickys-thai-kitchen-pittsburgh-4) | [urbanspoon](https://www.zomato.com/pittsburgh/nickys-thai-kitchen-1-pittsburgh/maps) | [directions](https://goo.gl/maps/seogX)
-* Sharp Edge: [site](http://sharpedgebeer.com/bistro-on-penn) | [yelp](http://www.yelp.com/biz/bistro-penn-pittsburgh-4) | [urbanspoon](https://www.zomato.com/pittsburgh/the-sharp-edge-bistro-penn-pittsburgh/maps) | [directions](https://goo.gl/maps/bAXLo)
-* Sienna Mercato: [site](http://www.siennapgh.com/mercato/) | [yelp](http://www.yelp.com/biz/sienna-mercato-pittsburgh) | [urbanspoon](https://www.zomato.com/pittsburgh/emporio-a-meatball-joint-pittsburgh) | [directions](https://goo.gl/maps/odkPP)
-* Ten Penny: [site](http://www.tenpennypgh.com/) | [yelp](http://www.yelp.com/biz/ten-penny-pittsburgh) | [urbanspoon](https://www.zomato.com/pittsburgh/ten-penny-pittsburgh/menu) | [directions](https://goo.gl/maps/JJRbw)
+* Nicky's Thai Kitchen: [site](http://www.nickysthaikitchen.com/) | [yelp](http://www.yelp.com/biz/nickys-thai-kitchen-pittsburgh-4) | [zomato](https://www.zomato.com/pittsburgh/nickys-thai-kitchen-1-pittsburgh/maps) | [directions](https://goo.gl/maps/seogX)
+* Sharp Edge: [site](http://sharpedgebeer.com/bistro-on-penn) | [yelp](http://www.yelp.com/biz/bistro-penn-pittsburgh-4) | [zomato](https://www.zomato.com/pittsburgh/the-sharp-edge-bistro-penn-pittsburgh/maps) | [directions](https://goo.gl/maps/bAXLo)
+* Sienna Mercato: [site](http://www.siennapgh.com/mercato/) | [yelp](http://www.yelp.com/biz/sienna-mercato-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/emporio-a-meatball-joint-pittsburgh) | [directions](https://goo.gl/maps/odkPP)
+* Ten Penny: [site](http://www.tenpennypgh.com/) | [yelp](http://www.yelp.com/biz/ten-penny-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/ten-penny-pittsburgh/menu) | [directions](https://goo.gl/maps/JJRbw)
 
 ### North Side/North Shore
 ##### Food:
-* El Burro: [site](http://www.elburropgh.com/) | [yelp](http://www.yelp.com/biz/el-burro-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1712246/restaurant/North-Side/El-Burro-Comedor-Pittsburgh) | [directions](https://goo.gl/maps/Qz9Jx) | Vegetarian & Vegan friendly
+* El Burro: [site](http://www.elburropgh.com/) | [yelp](http://www.yelp.com/biz/el-burro-pittsburgh) | [zomato](http://www.zomato.com/r/23/1712246/restaurant/North-Side/El-Burro-Comedor-Pittsburgh) | [directions](https://goo.gl/maps/Qz9Jx) | Vegetarian & Vegan friendly
 * North Side Farmer's Market: Friday, 3:30 - 7:30 pm | [directions](https://goo.gl/maps/796GF)
-* Nicky's Thai Kitchen (North Side): [site](http://www.nickysthaikitchen.com/) | [yelp](http://www.yelp.com/biz/nickys-thai-kitchen-pittsburgh) | [urbanspoon](https://www.zomato.com/pittsburgh/nickys-thai-kitchen-pittsburgh) | [directions](https://goo.gl/maps/HRgzB)
+* Nicky's Thai Kitchen (North Side): [site](http://www.nickysthaikitchen.com/) | [yelp](http://www.yelp.com/biz/nickys-thai-kitchen-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/nickys-thai-kitchen-pittsburgh) | [directions](https://goo.gl/maps/HRgzB)
 * Carmi [site](http://www.carmirestaurant.com) | [yelp] (http://www.yelp.com/biz/carmi-family-restaurant-pittsburgh) | [directions](https://goo.gl/maps/GOSBh)
 
 ##### Non-food:
@@ -70,16 +70,16 @@ Really, the best thing about Mount Washington is the amazing view of the city. R
 
 ### Lawrenceville
 ##### Food:
-* Frankie's (cheap hot dogs, been around since the dawn of time. Follow the onions) | [yelp](http://www.yelp.com/biz/frankies-extra-long-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/270638/restaurant/Lawrenceville/Frankies-Extra-Long-Pittsburgh) | [directions](https://goo.gl/maps/iYhMd)
-* Smoke BBQ Taqueria (Barbecue tacos. What's not to like? BYOB. Cash only, but there's an ATM onsite.) | [yelp](http://www.yelp.com/biz/smoke-bbq-taqueria-pittsburgh) | [urbanspoon](https://www.zomato.com/pittsburgh/smoke-bbq-taqueria-pittsburgh) | [directions](https://goo.gl/maps/C8Uk6)
-* Constellation Coffee (specialty coffee): [site](http://www.constellationcoffeepgh.com/) | [yelp](http://www.yelp.com/biz/constellation-coffee-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1947665/restaurant/Bloomfield/Constellation-Coffee-Pittsburgh)
-* Round Corner Cantina (Mexican cocktails and bar food): [site](http://roundcornercantina.com/) | [yelp](http://www.yelp.com/biz/round-corner-cantina-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1484044/restaurant/Lawrenceville/Round-Corner-Cantina-Pittsburgh)
-* Tender (artisan cocktails): [site](http://tenderpgh.com/) | [yelp](http://www.yelp.com/biz/tender-bar-and-kitchen-pittsburgh-2) | [urbanspoon](http://www.urbanspoon.com/r/23/1739461/restaurant/Lawrenceville/Tender-Bar-Kitchen-Pittsburgh)
-* Cure (artisan meat): [site](http://www.curepittsburgh.com/#welcome-to-cure) | [yelp](http://www.yelp.com/biz/cure-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1616797/restaurant/Lawrenceville/Cure-Pittsburgh)
-* Pusadee's Garden (Thai): [site](http://www.pusadeesgarden.com/) | [yelp](http://www.yelp.com/biz/pusadees-garden-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1453809/restaurant/Lawrenceville/Pusadees-Garden-Pittsburgh)
+* Frankie's (cheap hot dogs, been around since the dawn of time. Follow the onions) | [yelp](http://www.yelp.com/biz/frankies-extra-long-pittsburgh) | [zomato](http://www.zomato.com/r/23/270638/restaurant/Lawrenceville/Frankies-Extra-Long-Pittsburgh) | [directions](https://goo.gl/maps/iYhMd)
+* Smoke BBQ Taqueria (Barbecue tacos. What's not to like? BYOB. Cash only, but there's an ATM onsite.) | [yelp](http://www.yelp.com/biz/smoke-bbq-taqueria-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/smoke-bbq-taqueria-pittsburgh) | [directions](https://goo.gl/maps/C8Uk6)
+* Constellation Coffee (specialty coffee): [site](http://www.constellationcoffeepgh.com/) | [yelp](http://www.yelp.com/biz/constellation-coffee-pittsburgh) | [zomato](http://www.zomato.com/r/23/1947665/restaurant/Bloomfield/Constellation-Coffee-Pittsburgh)
+* Round Corner Cantina (Mexican cocktails and bar food): [site](http://roundcornercantina.com/) | [yelp](http://www.yelp.com/biz/round-corner-cantina-pittsburgh) | [zomato](http://www.zomato.com/r/23/1484044/restaurant/Lawrenceville/Round-Corner-Cantina-Pittsburgh)
+* Tender (artisan cocktails): [site](http://tenderpgh.com/) | [yelp](http://www.yelp.com/biz/tender-bar-and-kitchen-pittsburgh-2) | [zomato](http://www.zomato.com/r/23/1739461/restaurant/Lawrenceville/Tender-Bar-Kitchen-Pittsburgh)
+* Cure (artisan meat): [site](http://www.curepittsburgh.com/#welcome-to-cure) | [yelp](http://www.yelp.com/biz/cure-pittsburgh) | [zomato](http://www.zomato.com/r/23/1616797/restaurant/Lawrenceville/Cure-Pittsburgh)
+* Pusadee's Garden (Thai): [site](http://www.pusadeesgarden.com/) | [yelp](http://www.yelp.com/biz/pusadees-garden-pittsburgh) | [zomato](http://www.zomato.com/r/23/1453809/restaurant/Lawrenceville/Pusadees-Garden-Pittsburgh)
 * Espresso a Mano (coffee): [site](http://espressoamano.com/) |
 [yelp](http://www.yelp.com/biz/espresso-a-mano-pittsburgh) |
-[urbanspoon](https://www.zomato.com/pittsburgh/espresso-a-mano-pittsburgh) |
+[zomato](https://www.zomato.com/pittsburgh/espresso-a-mano-pittsburgh) |
 [directions](https://goo.gl/maps/xpDCk)
 
 ### Oakland
