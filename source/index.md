@@ -82,6 +82,17 @@ Really, the best thing about Mount Washington is the amazing view of the city. R
 [zomato](https://www.zomato.com/pittsburgh/espresso-a-mano-pittsburgh) |
 [directions](https://goo.gl/maps/xpDCk)
 
+### East Liberty / Shadyside
+#### Food:
+* Ace Hotel / The Whitfield (hotel + bar + restaurant): [site](https://www.acehotel.com/pittsburgh) | [yelp](http://www.yelp.com/biz/ace-hotel-pittsburgh-pittsburgh)
+* The Livermore (restaurant + bar): [site](http://www.thelivermorepgh.com/) | [yelp](http://www.yelp.com/biz/the-livermore-pittsburgh)
+* Dinette (pizza): [site](http://dinette-pgh.com/) | [yelp](http://www.yelp.com/biz/dinette-pittsburgh)
+* Pizza Taglio (pizza): [facebook](https://www.facebook.com/tagliopgh/) | [yelp](http://www.yelp.com/biz/pizza-taglio-pittsburgh-2)
+* Kelly's (cocktail bar, get the mac & cheese): [yelp](http://www.yelp.com/biz/kellys-bar-and-lounge-pittsburgh-2)
+* Mad Mex (Americanized Tex-Mex comfort food, good for groups): [site](http://www.madmex.com/pittsburgh/shadyside) | [yelp](http://www.yelp.com/biz/mad-mex-shadyside-pittsburgh)
+* Social (bar so big that it's easily mistaken for an airplane hanger): [site](http://www.bakerysocial.com/) | [yelp](http://www.yelp.com/biz/social-pittsburgh)
+* East Liberty Presbyterian (huge historic church, worth wandering into): [site](http://cathedralofhope.org/)
+
 ### Oakland
 Oakland is really a student haven, and where you can find the University of Pittsburgh and Carnegie Mellon University. The main attractions here are some awesome museums, and great parks. Parking can be a challenge, so pay close attention to where you're parking and how much it will cost.
 
