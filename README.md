@@ -8,4 +8,4 @@ A [guide](http://pfulton.github.io/wdd-yinzers-guide/) to Pittsburgh, by the yin
 4. You can also help out with HTML & Sass, if you'd like.
 
 ## Timeline
-I'll be merging in pull requests until Sunday, June 14, 2015, but let's get this thing built out before then!
+I'll be merging in pull requests until Wednesday, June 22, 2016!
