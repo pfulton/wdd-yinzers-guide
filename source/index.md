@@ -38,6 +38,7 @@ The Strip would be an excellent place to walk around on the day after Web Design
 ##### Food:
 * El Burro: [site](http://www.elburropgh.com/) | [yelp](http://www.yelp.com/biz/el-burro-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1712246/restaurant/North-Side/El-Burro-Comedor-Pittsburgh) | [directions](https://goo.gl/maps/Qz9Jx) | Vegetarian & Vegan friendly
 * North Side Farmer's Market: Friday, 3:30 - 7:30 pm | [directions](https://goo.gl/maps/796GF)
+* Max's Allegheny Tavern: [site](http://www.maxsalleghenytavern.com/) | [yelp](http://www.yelp.com/biz/maxs-allegheny-tavern-pittsburgh) | [directions](https://www.google.com/maps/place/Max's+Allegheny+Tavern/@40.4551832,-79.9997423,15z/data=!4m2!3m1!1s0x0:0x76b38e8bd490e8ab) | German food & extensive beer menu- a real yinzer hangout. 
 
 ##### Non-food:
 * Andy Warhol Museum: [site](http://www.warhol.org/) | 10 am - 10 pm, Friday / 10 am - 5 pm, Sat. & Sun. | $20 (Adults) / $10 (students & kids ages 3 - 18) / HALF PRICE ADMISSION ON FRIDAYS FROM 5 - 10 PM | [directions](https://goo.gl/maps/bIal0)
