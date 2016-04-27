@@ -27,6 +27,7 @@ The Strip would be an excellent place to walk around on the day after Web Design
  [yelp](http://www.yelp.com/biz/salems-market-and-grill-pittsburgh) |
  [urbanspoon](http://www.urbanspoon.com/r/23/1502578/restaurant/Strip-District/Salems-Market-Grill-Pittsburgh) |
  [directions](https://goo.gl/maps/XagDH)
+* Smallman Galley: [site](http://www.smallmangalley.org/) | [yelp](http://www.yelp.com/biz/smallman-galley-pittsburgh-2) | [directions](https://www.google.com/maps/dir//galley+kitchen+pittsburgh/@40.4519361,-80.0540342,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x8834f3dd3cda6335:0xc95198a984cbf75d!2m2!1d-79.9839935!2d40.4519572)
 
 ##### Non-food:
 * Yinzers: [yelp](http://www.yelp.com/biz/yinzers-pittsburgh) | [directions](https://goo.gl/maps/EDwRI) | - Sports wear & Pittsburgh-themed memorabilia
