@@ -28,6 +28,7 @@ The Strip would be an excellent place to walk around on the day after Web Design
  [yelp](http://www.yelp.com/biz/salems-market-and-grill-pittsburgh) |
  [zomato](http://www.zomato.com/r/23/1502578/restaurant/Strip-District/Salems-Market-Grill-Pittsburgh) |
  [directions](https://goo.gl/maps/XagDH)
+* Smallman Galley: [site](http://www.smallmangalley.org/) | [yelp](http://www.yelp.com/biz/smallman-galley-pittsburgh-2) | [directions](https://www.google.com/maps/dir//galley+kitchen+pittsburgh/@40.4519361,-80.0540342,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x8834f3dd3cda6335:0xc95198a984cbf75d!2m2!1d-79.9839935!2d40.4519572)
 
 ##### Non-food:
 * Yinzers: [yelp](http://www.yelp.com/biz/yinzers-pittsburgh) | [directions](https://goo.gl/maps/EDwRI) | - Sports wear & Pittsburgh-themed memorabilia
@@ -47,6 +48,7 @@ The Strip would be an excellent place to walk around on the day after Web Design
 * North Side Farmer's Market: Friday, 3:30 - 7:30 pm | [directions](https://goo.gl/maps/796GF)
 * Nicky's Thai Kitchen (North Side): [site](http://www.nickysthaikitchen.com/) | [yelp](http://www.yelp.com/biz/nickys-thai-kitchen-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/nickys-thai-kitchen-pittsburgh) | [directions](https://goo.gl/maps/HRgzB)
 * Carmi [site](http://www.carmirestaurant.com) | [yelp] (http://www.yelp.com/biz/carmi-family-restaurant-pittsburgh) | [directions](https://goo.gl/maps/GOSBh)
+* Max's Allegheny Tavern: [site](http://www.maxsalleghenytavern.com/) | [yelp](http://www.yelp.com/biz/maxs-allegheny-tavern-pittsburgh) | [directions](https://www.google.com/maps/place/Max's+Allegheny+Tavern/@40.4551832,-79.9997423,15z/data=!4m2!3m1!1s0x0:0x76b38e8bd490e8ab) | German food & extensive beer menu- a real yinzer hangout.
 
 ##### Non-food:
 * Andy Warhol Museum: [site](http://www.warhol.org/) | 10 am - 10 pm, Friday / 10 am - 5 pm, Sat. & Sun. | $20 (Adults) / $10 (students & kids ages 3 - 18) / HALF PRICE ADMISSION ON FRIDAYS FROM 5 - 10 PM | [directions](https://goo.gl/maps/bIal0)
