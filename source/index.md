@@ -33,7 +33,7 @@ The Strip would be an excellent place to walk around on the day after Web Design
 ##### Non-food:
 * Yinzers: [yelp](http://www.yelp.com/biz/yinzers-pittsburgh) | [directions](https://goo.gl/maps/EDwRI) | - Sports wear & Pittsburgh-themed memorabilia
 * Senator John Heinz History Center (museum): [site](http://www.heinzhistorycenter.org/) | [directions](https://goo.gl/maps/nGEJJ) | 10 am - 5 pm daily | $15 (adults) / $6 (kids, ages 6-17) / FREE (kids, ages 5 & under)
-* Pittsburgh Public Market: [site](http://pittsburghpublicmarket.org/) | Sat. 9-5, Sun 10-4 FREE
+
 
 ### Downtown (Cultural District)
 ##### Food:
