@@ -54,7 +54,7 @@ The Strip would be an excellent place to walk around on the day after Web Design
 * Andy Warhol Museum: [site](http://www.warhol.org/) | 10 am - 10 pm, Friday / 10 am - 5 pm, Sat. & Sun. | $20 (Adults) / $10 (students & kids ages 3 - 18) / HALF PRICE ADMISSION ON FRIDAYS FROM 5 - 10 PM | [directions](https://goo.gl/maps/bIal0)
 * Mattress Factory (museum): [site](http://www.mattress.org/) | 10 am - 5 pm, Tues. - Sat. / 1 pm - 5 pm Sun. | $20 (Adults) / FREE (kids, under age 6) | [directions](https://goo.gl/maps/I8VO4)
 * Pittsburgh Children's Museum: [site](https://pittsburghkids.org/) | 10 am - 5 pm, daily | $14 (adults) / $13 (kids, ages 2-18) / FREE (kids, under age 2) | [directions](https://goo.gl/maps/5NPtf)
-* PNC Park: Pirates vs. Phillies - Friday @ 7:05 pm, Saturday @ 4:05 pm, Sunday @ 1:35 pm | [tickets](http://pittsburgh.pirates.mlb.com/ticketing/index.jsp?c_id=pit) | [directions](https://goo.gl/maps/bKbAL)
+* PNC Park: Pirates vs. Giants - Thursday @ 12:35 pm. Pirates vs. Dodgers Friday @ 7:05 pm, Saturday @ 7:15 pm | [tickets](http://pittsburgh.pirates.mlb.com/ticketing/index.jsp?c_id=pit) | [directions](https://goo.gl/maps/bKbAL)
 * Heinz Field: [directions](https://goo.gl/maps/cyd1J)
 * Randyland: [site](http://randy.land/) | 1 pm - 7 pm, daily | admission is free!
 * St. Anthony's Chapel (A unique and somewhat weird collection of relics off the beaten path): Open 1-4pm Saturday, with tours at 1, 2, and 3 | [site](http://saintanthonyschapel.org/) | [directions](https://goo.gl/maps/8zWQG)
