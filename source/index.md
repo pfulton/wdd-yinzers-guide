@@ -18,14 +18,14 @@ The Strip would be an excellent place to walk around on the day after Web Design
 
 #### Strip District Things:
 ##### Food:
-* Gaucho: [site](http://eatgaucho.com/) | [yelp](http://www.yelp.com/biz/gaucho-parrilla-argentina-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1729706/restaurant/Strip-District/Gaucho-Parrilla-Argentina-Pittsburgh) | [directions](https://goo.gl/maps/hE6XU)
-* Pamela's (note: cash only, but there's an ATM): [site](http://www.pamelasdiner.com/) | [yelp](http://www.yelp.com/biz/pamelas-p-and-g-diner-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/271273/restaurant/Strip-District/Pamelas-P-G-Diner-Pittsburgh) | [directions](https://goo.gl/maps/iY445)
-* Thin Man Sandwich Shop: [site](http://thinmansandwichshop.com/) | [yelp](http://www.yelp.com/biz/thin-man-sandwich-shop-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1715847/restaurant/Strip-District/Thin-Man-Sandwich-Shop-Pittsburgh) | [directions](https://goo.gl/maps/euDPB)
-* Primanti Brothers: [site](https://www.primantibros.com/) | [yelp](http://www.yelp.com/biz/primanti-brothers-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/271431/restaurant/Strip-District/Primanti-Brothers-Pittsburgh) | [directions](https://goo.gl/maps/KbHFL)
-* Enrico Biscotti: [site](http://www.enricobiscotti.com/) | [yelp](http://www.yelp.com/biz/the-enrico-biscotti-co-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/270566/restaurant/Strip-District/Enrico-Biscotti-Pittsburgh) | [directions](https://goo.gl/maps/vcHjk)
+* Gaucho: [site](http://eatgaucho.com/) | [yelp](http://www.yelp.com/biz/gaucho-parrilla-argentina-pittsburgh) | [zomato](http://www.zomato.com/r/23/1729706/restaurant/Strip-District/Gaucho-Parrilla-Argentina-Pittsburgh) | [directions](https://goo.gl/maps/hE6XU)
+* Pamela's (note: cash only, but there's an ATM): [site](http://www.pamelasdiner.com/) | [yelp](http://www.yelp.com/biz/pamelas-p-and-g-diner-pittsburgh) | [zomato](http://www.zomato.com/r/23/271273/restaurant/Strip-District/Pamelas-P-G-Diner-Pittsburgh) | [directions](https://goo.gl/maps/iY445)
+* Thin Man Sandwich Shop: [site](http://thinmansandwichshop.com/) | [yelp](http://www.yelp.com/biz/thin-man-sandwich-shop-pittsburgh) | [zomato](http://www.zomato.com/r/23/1715847/restaurant/Strip-District/Thin-Man-Sandwich-Shop-Pittsburgh) | [directions](https://goo.gl/maps/euDPB)
+* Primanti Brothers: [site](https://www.primantibros.com/) | [yelp](http://www.yelp.com/biz/primanti-brothers-pittsburgh) | [zomato](http://www.zomato.com/r/23/271431/restaurant/Strip-District/Primanti-Brothers-Pittsburgh) | [directions](https://goo.gl/maps/KbHFL)
+* Enrico Biscotti: [site](http://www.enricobiscotti.com/) | [yelp](http://www.yelp.com/biz/the-enrico-biscotti-co-pittsburgh) | [zomato](http://www.zomato.com/r/23/270566/restaurant/Strip-District/Enrico-Biscotti-Pittsburgh) | [directions](https://goo.gl/maps/vcHjk)
 * Salem's Grill and Market (note: closed from 1-2 on Friday for prayers): 
  [yelp](http://www.yelp.com/biz/salems-market-and-grill-pittsburgh) |
- [urbanspoon](http://www.urbanspoon.com/r/23/1502578/restaurant/Strip-District/Salems-Market-Grill-Pittsburgh) |
+ [zomato](http://www.zomato.com/r/23/1502578/restaurant/Strip-District/Salems-Market-Grill-Pittsburgh) |
  [directions](https://goo.gl/maps/XagDH)
 * Smallman Galley: [site](http://www.smallmangalley.org/) | [yelp](http://www.yelp.com/biz/smallman-galley-pittsburgh-2) | [directions](https://www.google.com/maps/dir//galley+kitchen+pittsburgh/@40.4519361,-80.0540342,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x8834f3dd3cda6335:0xc95198a984cbf75d!2m2!1d-79.9839935!2d40.4519572)
 
@@ -36,7 +36,7 @@ The Strip would be an excellent place to walk around on the day after Web Design
 
 ### North Side/North Shore
 ##### Food:
-* El Burro: [site](http://www.elburropgh.com/) | [yelp](http://www.yelp.com/biz/el-burro-pittsburgh) | [urbanspoon](http://www.urbanspoon.com/r/23/1712246/restaurant/North-Side/El-Burro-Comedor-Pittsburgh) | [directions](https://goo.gl/maps/Qz9Jx) | Vegetarian & Vegan friendly
+* El Burro: [site](http://www.elburropgh.com/) | [yelp](http://www.yelp.com/biz/el-burro-pittsburgh) | [zomato](http://www.zomato.com/r/23/1712246/restaurant/North-Side/El-Burro-Comedor-Pittsburgh) | [directions](https://goo.gl/maps/Qz9Jx) | Vegetarian & Vegan friendly
 * North Side Farmer's Market: Friday, 3:30 - 7:30 pm | [directions](https://goo.gl/maps/796GF)
 * Max's Allegheny Tavern: [site](http://www.maxsalleghenytavern.com/) | [yelp](http://www.yelp.com/biz/maxs-allegheny-tavern-pittsburgh) | [directions](https://www.google.com/maps/place/Max's+Allegheny+Tavern/@40.4551832,-79.9997423,15z/data=!4m2!3m1!1s0x0:0x76b38e8bd490e8ab) | German food & extensive beer menu- a real yinzer hangout. 
 
@@ -51,6 +51,8 @@ The Strip would be an excellent place to walk around on the day after Web Design
 
 ### South Side
 ##### Food:
+* The Pretzel Shop (If you go nowhere else, go here. Exactly what it sounds like-pretzels, pretzel sandwiches, etc. The best pretzels ever.)| [site](http://www.thepretzelshop.net/) | [yelp](http://www.yelp.com/biz/the-pretzel-shop-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/pretzel-shop-pittsburgh) | [directions](https://goo.gl/maps/1kEpSmKmHMm) 
+* Piper's Pub (Pub food, and a great brunch)| [site](http://www.piperspub.com/) | [yelp](http://www.yelp.com/biz/pipers-pub-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/pipers-pub-pittsburgh) | [directions](https://goo.gl/maps/2NTqfY2ffTP2) 
 
 ##### Non-food:
 
@@ -60,4 +62,4 @@ Really, the best thing about Mount Washington is the amazing view of the city. R
 
 ### Lawrenceville
 #####Food
-* Frankie's (cheap hot dogs, been around since the dawn of time. Follow the onions) | [urbanspoon](http://www.urbanspoon.com/r/23/270638/restaurant/Lawrenceville/Frankies-Extra-Long-Pittsburgh) | [yelp](http://www.yelp.com/biz/frankies-extra-long-pittsburgh) | [directions](https://goo.gl/maps/iYhMd)
+* Frankie's (cheap hot dogs, been around since the dawn of time. Follow the onions) | [zomato](http://www.zomato.com/r/23/270638/restaurant/Lawrenceville/Frankies-Extra-Long-Pittsburgh) | [yelp](http://www.yelp.com/biz/frankies-extra-long-pittsburgh) | [directions](https://goo.gl/maps/iYhMd)
