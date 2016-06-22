@@ -79,6 +79,7 @@ Really, the best thing about Mount Washington is the amazing view of the city. R
 * Smoke BBQ Taqueria (Barbecue tacos. What's not to like? BYOB. Cash only, but there's an ATM onsite.) | [yelp](http://www.yelp.com/biz/smoke-bbq-taqueria-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/smoke-bbq-taqueria-pittsburgh) | [directions](https://goo.gl/maps/C8Uk6)
 * Constellation Coffee (specialty coffee): [site](http://www.constellationcoffeepgh.com/) | [yelp](http://www.yelp.com/biz/constellation-coffee-pittsburgh) | [zomato](http://www.zomato.com/r/23/1947665/restaurant/Bloomfield/Constellation-Coffee-Pittsburgh)
 * Round Corner Cantina (Mexican cocktails and bar food): [site](http://roundcornercantina.com/) | [yelp](http://www.yelp.com/biz/round-corner-cantina-pittsburgh) | [zomato](http://www.zomato.com/r/23/1484044/restaurant/Lawrenceville/Round-Corner-Cantina-Pittsburgh)
+* The Vandal: [site](http://www.thevandalpgh.com/) | [yelp](http://www.yelp.com/biz/the-vandal-pittsburgh)
 * Tender (artisan cocktails): [site](http://tenderpgh.com/) | [yelp](http://www.yelp.com/biz/tender-bar-and-kitchen-pittsburgh-2) | [zomato](http://www.zomato.com/r/23/1739461/restaurant/Lawrenceville/Tender-Bar-Kitchen-Pittsburgh)
 * Cure (artisan meat): [site](http://www.curepittsburgh.com/#welcome-to-cure) | [yelp](http://www.yelp.com/biz/cure-pittsburgh) | [zomato](http://www.zomato.com/r/23/1616797/restaurant/Lawrenceville/Cure-Pittsburgh)
 * Pusadee's Garden (Thai): [site](http://www.pusadeesgarden.com/) | [yelp](http://www.yelp.com/biz/pusadees-garden-pittsburgh) | [zomato](http://www.zomato.com/r/23/1453809/restaurant/Lawrenceville/Pusadees-Garden-Pittsburgh)
@@ -86,6 +87,12 @@ Really, the best thing about Mount Washington is the amazing view of the city. R
 [yelp](http://www.yelp.com/biz/espresso-a-mano-pittsburgh) |
 [zomato](https://www.zomato.com/pittsburgh/espresso-a-mano-pittsburgh) |
 [directions](https://goo.gl/maps/xpDCk)
+
+##### Non-Food:
+* [Row House Cinema's 2nd Birthday Party](http://rowhousecinema.com/tickets/index.php) featuring 2001: A Space Odyssey, Blade Runner, Moonrise Kingdom, and The Princess Bride.
+  * **Friday:** The Princess Bride - 12:15 pm, Blade Runner - 2:30 pm, Moonrise Kingdom - 5 pm, The Princess Bride - 7 pm, 2001: A Space Odyssey - 9:15 pm
+  * **Saturday:** The Princess Bride - Noon, 2001: A Space Odyssey - 2:15 pm, Moonrise Kingdom - 5:20 pm, Blade Runner - 7:30 pm, The Princess Bride - 10 pm
+  * **Sunday:** Moonrise Kingdom - Noon, The Princess Bride - 2 pm, Blade Runner - 4:15 pm, 2001: A Space Odyssey - 6:40 pm, Blade Runner - 9:40 pm
 
 ### East Liberty / Shadyside
 
