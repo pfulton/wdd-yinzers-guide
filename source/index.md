@@ -33,7 +33,7 @@ The Strip would be an excellent place to walk around on the day after Web Design
 ##### Non-food:
 * Yinzers: [yelp](http://www.yelp.com/biz/yinzers-pittsburgh) | [directions](https://goo.gl/maps/EDwRI) | - Sports wear & Pittsburgh-themed memorabilia
 * Senator John Heinz History Center (museum): [site](http://www.heinzhistorycenter.org/) | [directions](https://goo.gl/maps/nGEJJ) | 10 am - 5 pm daily | $15 (adults) / $6 (kids, ages 6-17) / FREE (kids, ages 5 & under)
-* Pittsburgh Public Market: [site](http://pittsburghpublicmarket.org/) | Sat. 9-5, Sun 10-4 FREE
+
 
 ### Downtown (Cultural District)
 ##### Food:
@@ -66,7 +66,10 @@ The Strip would be an excellent place to walk around on the day after Web Design
 * The Pub Chip Shop (heavy Scottish fare): [site](http://thepubchipshop.com/) | [yelp](http://www.yelp.com/biz/the-pub-chip-shop-pittsburgh)
 * Winghart's (burgers & whiskey): [site](http://www.winghartburgers.com/) | [yelp](http://www.yelp.com/biz/wingharts-burger-and-whiskey-bar-pittsburgh-2)
 * The Beehive (neighborhood institution): [site](http://www.beehivebuzz.com/)
+* The Pretzel Shop (If you go nowhere else, go here. Exactly what it sounds like-pretzels, pretzel sandwiches, etc. The best pretzels ever.)| [site](http://www.thepretzelshop.net/) | [yelp](http://www.yelp.com/biz/the-pretzel-shop-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/pretzel-shop-pittsburgh) | [directions](https://goo.gl/maps/1kEpSmKmHMm)
+* Piper's Pub (Pub food, and a great brunch)| [site](http://www.piperspub.com/) | [yelp](http://www.yelp.com/biz/pipers-pub-pittsburgh) | [zomato](https://www.zomato.com/pittsburgh/pipers-pub-pittsburgh) | [directions](https://goo.gl/maps/2NTqfY2ffTP2)
 
+##### Non-food:
 ### Mount Washington
 Really, the best thing about Mount Washington is the amazing view of the city. Ride one of the two inclines to get to Grandview Avenue! | [Duquesne Incline - Lower Station](https://goo.gl/maps/20JP7) | [Mon Incline - Lower Station](https://goo.gl/maps/NfqRJ)
 
@@ -89,3 +92,6 @@ Oakland is really a student haven, and where you can find the University of Pitt
 
 #### Non-Food
 * Carnegie Museums of Art and Natural History (two museums in one building-admission gets you entry to both, and you can leave and re-enter all day if you retain your ticket): [CMOA site](www.cmoa.org) // [CMNH site](www.http://www.carnegiemnh.org/) | Fri. 10am-5pm, Sat.  10-5, Sun. 12-5 | Admission: Adults $19.95, Seniors $14.95, Students and Children 3-18 $11.95, Children under 3 FREE, Admission is discounted 50% after 3PM on Weekdays. Holders of ACCESS cards receive admission for $1 per person, up to four people. Other discounts [here](http://www.cmoa.org/discounts/).
+
+##### Food
+* Frankie's (cheap hot dogs, been around since the dawn of time. Follow the onions) | [zomato](http://www.zomato.com/r/23/270638/restaurant/Lawrenceville/Frankies-Extra-Long-Pittsburgh) | [yelp](http://www.yelp.com/biz/frankies-extra-long-pittsburgh) | [directions](https://goo.gl/maps/iYhMd)
